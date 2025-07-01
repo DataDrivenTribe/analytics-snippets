@@ -1,6 +1,6 @@
 /*
   Title: File download tracker
-  Docs: https://datadriventribe.com/blog/file-download-tracking
+  Docs: https://datadriventribe.com/blog/file-download-tracking/
   Author: Data Driven Tribe
   License: MIT – see LICENSE in repo
 */
