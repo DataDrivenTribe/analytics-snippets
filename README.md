@@ -2,7 +2,7 @@
 
 Short, copy-paste helpers for solving common GA4, BigQuery, and Looker Studio problems in seconds.
 
-**Full tutorials and implementation guides → [Data Driven Tribe](https://datadriventribe.com/blog)**
+**Full tutorials and implementation guides → [Data Driven Tribe](https://datadriventribe.com/blog/)**
 
 ---
 
